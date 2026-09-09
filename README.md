@@ -2,9 +2,9 @@
 
 Simulating quantized black hole ringdown spectra under Bekenstein–Mukhanov horizon-area quantization, and comparing them against the emission lines produced by level transitions between quantized quasinormal modes (QNMs).
 
-## Overview
+## Abstract
 
-When a black hole is perturbed (e.g. by a merger), it "rings down" through a discrete spectrum of quasinormal modes. This project explores a toy model in which the horizon area — and hence the QNM frequencies — is quantized according to the Bekenstein–Mukhanov proposal, with quantization parameter α. Under this assumption, an excited QNM can decay not only through its natural damping but also by transitioning down through discrete quanta, emitting radiation at each step.
+The ringdown of a black hole following a merger is a potential candidate for revealing the signatures of quantum gravity in the emerging gravitational waves. In quantum theory, black holes are expected to have a discrete area and energy spectrum, which conflicts with the classical notion of an horizon that absorbs all infalling perturbations. We propose that the quantum black hole dissipates the energy it cannot absorb by emitting “soft” gravitons that carry away the energy difference between the energy of the infalling perturbation and the quantum transition energy. We find that the ringdown spectrum is consequently enriched with low-frequency components, and that there exists a weak low-frequency flux that persists for a timescale much longer than the ringdown itself.
 
 The notebook:
 
